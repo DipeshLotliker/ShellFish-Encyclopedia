@@ -2,7 +2,7 @@
 Final Year Project
 
 
-Hello! These are the instructions to run the django app.
+Hello! These are the instructions to run the app.
 
 
 1) Clone the Github Repo:
