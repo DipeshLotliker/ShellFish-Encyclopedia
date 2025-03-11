@@ -6,7 +6,7 @@ Hello! These are the instructions to run the django app.
 
 
 1) Clone the Github Repo:
-	git clone https://github.com/naikrudresh/BE_Project
+	git clone https://github.com/DipeshLotliker/ShellFish-Encyclopedia
 
 2) Install Virtual Environment:
 	pip install virtualenvwrapper-win
